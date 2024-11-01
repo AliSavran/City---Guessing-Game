@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1715521588 source:c:\users\ali19\desktop\adam-asmaca-oyunu\main.cpp
+	<iostream>
+	<ctime>
+	<vector>
+	<string>
+	<cstdlib>
+	<locale.h>
+
